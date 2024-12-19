@@ -5,6 +5,8 @@
   <img src="https://github.com/sylviiu/ezytdl/actions/workflows/test-linux.yml/badge.svg"/><br><br>
   <img src="https://raw.githubusercontent.com/sylviiu/ezytdl/main/.github/ezytdl-intro.gif">
 </h1> -->
+
+<!--
 ## What is this?
 
 **ezytdl** is an application that leverages yt-dlp and FFmpeg to provide a simple, easy-to-use interface for downloading videos from YouTube, Twitch, SoundCloud, and various other sites. It is built using [Electron](https://www.electronjs.org/), and is available for Windows, MacOS, and Linux.
@@ -20,6 +22,8 @@
 ...and more which [softpedia detailed in their review of this app!](https://www.softpedia.com/get/Internet/Download-Managers/ezytdl.shtml)<br><sub>*Thank you Robert Condorache!*</sub>
 
 -----
+
+-->
 
 ## Installation
 
